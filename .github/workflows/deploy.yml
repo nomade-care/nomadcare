@@ -11,7 +11,8 @@ on:
       - dev_local_factor
     paths:
       - ".github/workflows/deploy.yml"
-workflow_dispatch:
+
+  workflow_dispatch:
 
 jobs:
   Deploy-Preview:
