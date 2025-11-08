@@ -29,5 +29,3 @@ Instructions for local setup coming soon.
 ## License
 
 Created for prototyping use at FORGe AI Hackathon 2025.
-
-
