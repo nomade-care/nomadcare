@@ -1,5 +1,7 @@
 # Nomadcare Official Website
 
+🇺🇸 [nomadcare.us](https://www.nomadcare.us) | 🇪🇺 [nomadcare.eu](https://www.nomadcare.eu)
+
 This repository contains the **official website** for the **Nomadcare** project, developed during the [FORGe AI Hackathon](https://lisbonaiweek.com/forge-ai-hackathon) at Lisbon AI Week 2025.
 
 ## About Nomadcare
