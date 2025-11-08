@@ -10,19 +10,18 @@ on:
       - main
       - dev_local_factor
     paths:
-      - 'frontend/**'
-      - '.github/workflows/deploy.yml'
-      
+      - ".github/workflows/deploy.yml"
+
 jobs:
   Deploy-Preview:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20.16.0'
+          node-version: "20.16.0"
 
       - name: Cache dependencies
         uses: actions/cache@v3
