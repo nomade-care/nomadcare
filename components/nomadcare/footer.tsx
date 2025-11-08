@@ -1,9 +1,4 @@
-"use client";
-
-import React from "react"
-
-
-export default function Footer() {
+export function Footer() {
   return (
     <footer className="border-t border-border bg-card container-padding-x py-12">
       <div className="mx-auto max-w-6xl">
