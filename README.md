@@ -1,4 +1,16 @@
+<div align="center">
+
+<img src="https://nomadcare.vercel.app/nomadcare-logo.png" alt="NomadCare Logo" width="300">
+
+</div>
+
 # Nomadcare Official Website
+
+<div align="center">
+
+🇺🇸 [nomadcare.us](https://www.nomadcare.us) | 🇪🇺 [nomadcare.eu](https://www.nomadcare.eu)
+
+</div>
 
 This repository contains the **official website** for the **Nomadcare** project, developed during the [FORGe AI Hackathon](https://lisbonaiweek.com/forge-ai-hackathon) at Lisbon AI Week 2025.
 

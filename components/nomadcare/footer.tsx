@@ -1,4 +1,9 @@
-export function Footer() {
+"use client";
+
+import React from "react"
+
+
+export default function Footer() {
   return (
     <footer className="border-t border-border bg-card container-padding-x py-12">
       <div className="mx-auto max-w-6xl">
@@ -86,7 +91,12 @@ export function Footer() {
               United States
             </p>
           </div>
-          <div>
+          <div
+            onClick={()=>{
+                window.location.href="https://www.nomadcare.eu"
+            }}
+            className="cursor-pointer"
+            >
             <div className="flex items-center gap-2 mb-2">
               <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-blue-100 text-lg">
                 🇪🇺
