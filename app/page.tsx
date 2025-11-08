@@ -1,3 +1,4 @@
+"use client"
 import { Navbar } from "@/components/nomadcare/navbar"
 import { HeroSection } from "@/components/nomadcare/hero-section"
 import { ProblemSection } from "@/components/nomadcare/problem-section"
